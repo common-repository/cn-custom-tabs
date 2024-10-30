@@ -1,0 +1,80 @@
+.add_tabs_container{
+	text-align: center;
+}
+.cn_title{
+	font-size: 1.1em;
+    font-weight: 700;
+    margin: 2px 8px 0 0!important;
+    width: auto!important;
+}
+.cn_input{
+   width: 80% !important;
+}
+.tabcontent {
+    margin-bottom: 10px;
+}
+.add_tabs_container {
+    border-top: 1px solid #a0a5aa;
+    margin: 2em 2px 0 0;
+    padding: 10px 0;
+    width: 100%;
+}
+#woocommerce_custom_product_tabs {
+    margin-bottom: 10px;
+}
+#woocommerce_custom_product_tabs .options_group {
+    padding: 0 1em;
+}
+.custom-tab-divider {
+    display: block;
+    height: 2px;
+    margin: 2em 0 1.5em;
+    border-bottom: 1px solid #000;
+}
+td>input{
+    /* width: 140px; */
+}
+
+.pricing_table>table>tbody>tr>th{text-align: left!important;padding: 0px 10px;}
+.form-field>label {
+    font-weight: bold!important;
+}
+#duplicate_this_row {
+ /*    display: none; */
+}
+
+
+.cn-woo-custom-tab-divider {
+    border-top: 1px solid;
+    margin: 25px 0;
+}
+
+.button-secondary.cn_delete_tabs {
+    color: #fff!important;
+    border-color: #e42121!important;
+    background: #e42121!important;
+    box-shadow: 0 1px 0 #ccc!important;
+    vertical-align: top!important;
+    margin-top: 20px!important;
+}
+
+
+
+
+#cn_pricing_table_data td, #cn_pricing_table_data th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+#cn_pricing_table_data table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#cn_pricing_table_data th, #cn_pricing_table_datatd {
+  padding: 15px;
+}
+
+#cn_pricing_table_data thead {
+    background: #eaeff3;
+}
